@@ -1,5 +1,9 @@
-#Dev Note - I have a working solution bar one small error, for whatever reason in the cartTotal function in \src\Shop\Cart.php line 205, the returned total is the Product objects property name $unitPrice and I for the life of me can't figure out why.  Anyway, happy to discuss and thanks for the opportunity in the tech test which was fun getting back into some OOP and coding.  Hope to hear from you, thanks.
+#Dev Note - I have a working solution bar one small error, for whatever reason in the cartTotal function in \src\Shop\Cart.php line 205, the returned total is the Product objects property name $unitPrice and I for the life of me can't figure out why, plus I have some Symfony and MVC questions.  Anyway, happy to discuss and thanks for the opportunity in the tech test which was fun getting back into some OOP and coding.  Hope to hear from you, thanks.
 
+Main files for test and code are:
+\src\Controller\displayCart.php
+\src\Shop\Cart.php
+\src\Shop\Product.php
 
 Aphix Software Engineering Assessment
 
