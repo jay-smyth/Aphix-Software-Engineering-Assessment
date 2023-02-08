@@ -1,0 +1,9 @@
+controllers:
+    resource:
+        path: ../src/Controller/
+        namespace: App\Controller
+    type: attribute
+    
+cart:
+    path: /cart
+    controller: App\Controller\displayCart::index
